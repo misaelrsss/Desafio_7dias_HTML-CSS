@@ -1,0 +1,21 @@
+.banner{
+    margin: 6em 15em;
+    text-align: center;
+}
+
+.banner__titulo{
+    color: var(--azul-forte);
+    font-weight: 700;
+    margin: 0.7em 0;
+    font-size: 3em;
+}
+
+.banner__texto-chamativo{
+    color: var(--vermelho);
+    font-size: 1.5em;
+}
+
+.banner__descricao{
+    color: var(--cinza);
+    font-size: 1.5em;
+}

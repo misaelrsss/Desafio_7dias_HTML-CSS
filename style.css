@@ -2,6 +2,7 @@
 @import url(Style/banner.css);
 @import url(Style/vagas.css);
 @import url(Style/metricas.css);
+@import url(Style/talentos.css);
 
 :root{
     --cor-de-fundo: #EBECEE;
@@ -15,5 +16,5 @@
 body{
     font-size: 16px;
     font-weight: 400;
-
+    font-family: var(--fonte-principal);
 }

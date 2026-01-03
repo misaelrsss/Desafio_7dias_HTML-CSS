@@ -1,0 +1,32 @@
+.talentos {}
+
+.talentos__div {
+    padding: 1em 0 2em 10em;
+}
+
+.talentos__texto-div {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+    padding-left: 2.2em;
+}
+
+.talentos__titulo {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--azul-fonte);
+    margin: 1em;
+}
+
+.talentos__subtitulo {
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--azul-fonte);
+    margin: 2em;
+}
+
+.talentos__texto{
+}
+
+.talentos__texto-2{
+}

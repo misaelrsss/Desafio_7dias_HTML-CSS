@@ -3,12 +3,14 @@
 @import url(Style/vagas.css);
 @import url(Style/metricas.css);
 @import url(Style/talentos.css);
+@import url(Style/depoimento.css);
 
 :root{
     --cor-de-fundo: #EBECEE;
     --cinza: #667085;
     --vermelho: #8E2424;
     --azul-fonte: #0d0058;
+    --fundo-vermelho-claro: #C3191908;
 
     --fonte-principal: 'Inter', sans-serif;
 }

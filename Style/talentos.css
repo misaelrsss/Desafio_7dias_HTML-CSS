@@ -25,8 +25,6 @@
     margin: 2em;
 }
 
-.talentos__texto{
-}
-
-.talentos__texto-2{
+.talentos__texto {
+    color: var(--cinza);
 }

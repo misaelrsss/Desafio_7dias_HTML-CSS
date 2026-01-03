@@ -1,4 +1,6 @@
-.talentos {}
+.talentos {
+    padding-left: 7em;
+}
 
 .talentos__div {
     padding: 1em 0 2em 10em;

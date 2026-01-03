@@ -27,6 +27,13 @@
     margin: 2em;
 }
 
+<<<<<<< HEAD
 .talentos__texto {
     color: var(--cinza);
+=======
+.talentos__texto{
+}
+
+.talentos__texto-2{
+>>>>>>> 51fe227 (Nova section)
 }

@@ -1,0 +1,55 @@
+.rodape {
+    padding: 4.5em 7em;
+}
+
+.rodape__titulo {
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    color: var(--azul-fonte);
+
+}
+
+.rodape__subtitulo {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: var(--cinza);
+    padding: 1em;
+}
+
+.rodape__div {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.footer__pesquisa {
+    align-items: center;
+    color: var(--cinza);
+    border: 1px solid var(--branco);
+    border-radius: 0.5em;
+    padding: 1em;
+    padding-right: 10em;
+}
+
+.footer__pesquisa::placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza);
+}
+
+.footer__botao {
+    border: 0.8em solid var(--vermelho);
+    border-radius: 0.7em;
+    background-color: var(--vermelho);
+    color: var(--cor-de-fundo);
+}
+
+.rodape__texto {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: var(--cinza);
+    padding: 1em;
+}
